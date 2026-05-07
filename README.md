@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Terraform AWS EC2 Instance — Student Assignment
 
 Deploy an Amazon Linux EC2 instance on AWS using Terraform (Infrastructure as Code).
@@ -227,3 +228,6 @@ instance_type = "t2.micro"
 ## 👤 Author
 
 **Student Name** | Terraform Basics Assignment
+=======
+# terraform-aws-ec2
+>>>>>>> 626df2492edf427bdd9bb5374acbd99361b20770
